@@ -1,0 +1,32 @@
+# Archivos de entorno de Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pyo
+*.pyd
+
+# Archivos de entorno virtual
+.env/
+.venv/
+env/
+venv/
+ENV/
+ENV.bak/
+*.env
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+
+# Archivos de Jupyter/Colab
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de log
+*.log
+
+# Archivos ocultos de sistema
+.DS_Store
